@@ -17,7 +17,7 @@ There are five major types of assignments involved in this project. An introduct
 
 ## Code
 
-The codes are prepared according to the guidelines set out by the Coursera team. Spacing is a minimum of 8 spaces from the left. Other than using GitHub, I don't have any other code sharing plans. These codes will be reproducible, but they might not reproduce exactly the results presented here. When structuring the codes in the code files, I annotate them so that I could identify what I'm actually doing with the codes. For example: setting work directory, getting work directory, listing files inside folder, dowloading files, etc.
+The codes are prepared according to the guidelines set out by the Coursera team. Spacing is a minimum of 8 spaces from the left. Other than using GitHub, I don't have any other code sharing plans. These codes will be reproducible, but they might not reproduce exactly the results presented here. When structuring the codes in the code files, I annotate them so that I could identify what I'm actually doing with the codes. For example: setting work directory, getting work directory, listing files inside folder, dowloading files, etc. I plan to make both the Raw code and the Final code accessible for the final project. 
 
 ## Final product
 
