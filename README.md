@@ -5,9 +5,13 @@ This repository is where I keep the file requirements for building a predictive 
 
 ## Folder and file structure
 
-- **assignment** is where I keep my assignments
-- **code** is where I keep the raw code & the final code for each assignment
-- **data** stores the data
-- **figures** stores the final figures
-- **writing** keeps the final analysis 
+- **assignment**/ *where I keep the assignments*
+- **code**/ *where I keep the raw code & the final code for each assignment*
+- **data**/ *stores the data*
+- **figures**/ *stores the final figures*
+- **writing**/ *keeps the final analysis* 
+
+## Assignment
+
+There are five major types of assignments involved in this project. An introductory quiz to test whether I have downloaded and can manipulate the data. An intermediate R markdown report that describes in plain language, plots, and code the exploratory analysis of the course dataset. Two natural language processing quizzes, where I apply my predictive odel to real data to check how it is working. A Shiny app that takes as input a phrase (multiple words), one clicks submit, and it predicts the next word. A 5-slide deck created with R presentations pitching my algorithm and app to my bosses and/or investors.
 
