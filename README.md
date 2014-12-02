@@ -21,7 +21,7 @@ The codes are prepared according to the guidelines set out by the Coursera team.
 
 ## Data
 
-
+The data comes in the form of very large text files. To process them, the project makes use of [Natural Language Processing](http://cran.r-project.org/web/views/NaturalLanguageProcessing.html), following the infrastructure laid out in [CRUNCH and its tutorials](http://crunch.kmi.open.ac.uk/w/index.php/Tutorial). 
 
 ## Final product
 
