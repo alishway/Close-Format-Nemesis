@@ -17,14 +17,14 @@ There are five major types of assignments involved in this project. An introduct
 
 ## Code
 
-The codes are prepared according to the guidelines set out by the Coursera team. Spacing is a minimum of 8 spaces from the left. Other than using GitHub, I don't have any other code sharing plans. These codes will be reproducible, but they might not reproduce exactly the results presented here. When structuring the codes in the code files, I annotate them so that I could identify what I'm planning to be doing with the codes. For example: **setting work directory**, **getting work directory**, **listing files inside folder**, **dowloading files**, etc. I plan to make both the Raw code and the Final code accessible for the final project. I might "comment out" the codes.
+The codes are prepared according to the guidelines set out by the Coursera team. Spacing is a minimum of 8 spaces from the left. Other than using GitHub, I don't have any other code sharing plans. These codes will be reproducible, but they might not reproduce exactly the results presented here. When structuring the codes in the code files, I annotate them so that I could identify what I'm planning to be doing with the codes. For example: *setting work directory*, *getting work directory*, *listing files inside folder*, *dowloading files*, etc. I plan to make both the Raw code and the Final code accessible for the final project. I might "comment out" the codes.
 
 ## Data
 
 The data comes in the form of very large text files. To process them, the project makes use of:
 
 - [Natural Language Processing](http://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
-- the infrastructure laid out in [CRUNCH and its tutorials](http://crunch.kmi.open.ac.uk/w/index.php/Tutorial)
+- the infrastructure laid out in [CRUNCH](http://crunch.kmi.open.ac.uk/w/index.php/Tutorial) and its tutorials
 - the accompanying website to the Speech and Language Processing handbook
 - the companying website to Foundations of Statistical Natural Language Processing
 - NLP Stanford course [lectures](https://www.coursera.org/course/nlp) 
