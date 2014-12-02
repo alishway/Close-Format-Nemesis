@@ -21,7 +21,13 @@ The codes are prepared according to the guidelines set out by the Coursera team.
 
 ## Data
 
-The data comes in the form of very large text files. To process them, the project makes use of [Natural Language Processing](http://cran.r-project.org/web/views/NaturalLanguageProcessing.html), following the infrastructure laid out in [CRUNCH and its tutorials](http://crunch.kmi.open.ac.uk/w/index.php/Tutorial). 
+The data comes in the form of very large text files. To process them, the project makes use of:
+
+- [Natural Language Processing](http://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
+- the infrastructure laid out in [CRUNCH and its tutorials](http://crunch.kmi.open.ac.uk/w/index.php/Tutorial)
+- the accompanying website to the Speech and Language Processing handbook
+- the companying website to Foundations of Statistical Natural Language Processing
+- NLP Stanford course [lectures](https://www.coursera.org/course/nlp) 
 
 ## Final product
 
