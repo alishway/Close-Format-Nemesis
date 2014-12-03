@@ -33,6 +33,23 @@ The data comes in the form of very large text files. To process them, the projec
 
 I store all the figures generated for the purpose of completing and revising the Milestone report and the Final report here in this folder. There should be a set of Final Figures for the Final report, if not impossible. The naming of the figures are as such to help me make sense of neat, tidy filed visual explorations. The codes that generated the figures will be made available in the Code folder. 
 
-## Final product
+## Writing
 
-### Summary of project
+This is where the final report should be placed. 
+
+## Tasks
+
+- Understanding the problem
+- Data acquisition and cleaning
+- Exploratory analysis
+- Statistical modeling
+- Predictive modeling
+- Creative exploration
+- Creating a data product
+- Creating a short slide deck pitching the product
+
+## The Final Product
+
+Links to final product publications [here](https://pages.github.com/), [here](https://pages.github.com/), and [here](https://pages.github.com/)
+Link to the app here and [here](https://pages.github.com/)
+Link to one-page website [here](https://pages.github.com/)
