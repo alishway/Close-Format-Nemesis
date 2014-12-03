@@ -51,5 +51,9 @@ This is where the final report should be placed.
 ## The Final Product
 
 Links to final product publications [here](https://pages.github.com/), [here](https://pages.github.com/), and [here](https://pages.github.com/)
-Link to the app here and [here](https://pages.github.com/)
+
+Link to the app goes [here](https://pages.github.com/) and [here](https://pages.github.com/)
+
 Link to one-page website [here](https://pages.github.com/)
+
+More information about the data science track [here](https://pages.github.com/), and the project [here](https://pages.github.com/) 
