@@ -31,7 +31,7 @@ The data comes in the form of very large text files. To process them, the projec
 
 ## Figures
 
-I store all the figures generated for the purpose of completing and revising the Milestone report and the Final report here in this folder. There should be a set of Final Figures for the Final report, if it's not impossible. The naming of the figures are as such to help me make sense of neat, tidy filed visual explorations. The codes that generated the figures will be made available in the Code folder. 
+I store all the figures generated for the purpose of completing and revising the Milestone report and the Final report here in this folder. There should be a set of Final Figures for the Final report, if not impossible. The naming of the figures are as such to help me make sense of neat, tidy filed visual explorations. The codes that generated the figures will be made available in the Code folder. 
 
 ## Final product
 
