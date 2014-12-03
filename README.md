@@ -13,7 +13,7 @@ This repository is where I keep the file requirements for building a predictive 
 
 ## Assignment
 
-There are five major types of assignments involved in this project. An introductory quiz to test whether I have downloaded and can manipulate the data. An intermediate R markdown report that describes in plain language, plots, and code the exploratory analysis of the course dataset. Two natural language processing quizzes, where I apply my predictive odel to real data to check how it is working. A Shiny app that takes as input a phrase (multiple words), one clicks submit, and it predicts the next word. A 5-slide deck created with R presentations pitching my algorithm and app to my bosses and/or investors.
+There are five major types of assignments involved in this project. An introductory quiz to test whether I have downloaded and can manipulate the data. An intermediate R markdown report that describes in plain language, plots, and code the exploratory analysis of the course dataset. Two natural language processing quizzes, where I apply my predictive model to real data to check how it is working. A Shiny app that takes as input a phrase (multiple words), one clicks submit, and it predicts the next word. A 5-slide deck created with R presentations pitching my algorithm and app to my bosses and/or investors.
 
 ## Code
 
@@ -28,6 +28,10 @@ The data comes in the form of very large text files. To process them, the projec
 - the accompanying website to the Speech and Language Processing handbook
 - the companying website to Foundations of Statistical Natural Language Processing
 - NLP Stanford course [lectures](https://www.coursera.org/course/nlp) 
+
+## Figures
+
+I store all the figures generated for the purpose of completing and revising the Milestone report and the Final report here in this folder. There should be a set of Final Figures for the Final report, if it's not impossible. The naming of the figures are as such to help me make sense of neat, tidy filed visual explorations. The codes that generated the figures will be made available in the Code folder. 
 
 ## Final product
 
