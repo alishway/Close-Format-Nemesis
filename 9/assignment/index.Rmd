@@ -1,0 +1,53 @@
+---
+title       : Predictive Text App Project
+subtitle    : Natural Language Processing with Coursera and Swiftkey
+author      : Lovelli Ariesti           
+job         : Data Scientist
+framework   : revealjs
+transition  : cube
+highlighter : highlight.js  
+hitheme     : tomorrow    
+widgets     : [mathjax]     
+mode        : standalone 
+knit        : slidify::knit2slides
+---
+
+# Close-Format-Nemesis
+## A PREDICTIVE TEXT APP
+
+###### created by [Lovelli Ariesti](https://github.com/ariesti)
+
+--- .class1 #id1
+
+## A Simple Plan
+
+```{r img, echo=FALSE, fig.align='center'}
+library(png)
+library(grid)
+img <- readPNG("C:/Users/Hp/Documents/DATA/Close-Format/assets/img/plot_dtm1.png")
+grid.raster(img)
+```
+
+sample corpus plot
+
+--- .class3 #1d3
+
+Choose a time series:
+
+```{r}
+paste("Hello", "World!")
+```
+
+See a plot:
+
+```{r eval=TRUE, echo = FALSE}
+paste("Hello", "World!")
+```
+
+--- .class4 #id4
+
+### Natural Language Processing
+
+"Natural Language Processing applies machine learning algorithm to generate a larger set of **features** from the input data. Prior to machine learning, language processing tasks involved direct hand coding applied to large sets of rules, or what is also known as **annotation**. These rules are now learned using general learning algorithms."
+
+
