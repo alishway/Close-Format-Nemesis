@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 # Close-Format-Nemesis
 ## A PREDICTIVE TEXT APP
 
-###### created by [Lovelli Ariesti](https://github.com/ariesti)
+###### created by [@ariesti](https://github.com/ariesti)
 
 --- .class1 #id1
 
