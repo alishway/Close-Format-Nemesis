@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 # Close-Format-Nemesis
 ## A PREDICTIVE TEXT APP
 
-###### created by [Lovelli Ariesti](https://github.com/ariesti)
+###### created by [@ariesti](https://github.com/ariesti)
 
 --- .class1 #id1
 
@@ -24,7 +24,7 @@ knit        : slidify::knit2slides
 ```{r img, echo=FALSE, fig.align='center'}
 library(png)
 library(grid)
-img <- readPNG("C:/Users/Hp/Documents/DATA/Close-Format/assets/img/plot_dtm1.png")
+img <- readPNG("../img/plot_dtm1.png")
 grid.raster(img)
 ```
 
